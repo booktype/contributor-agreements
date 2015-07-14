@@ -1,0 +1,12 @@
+@page {
+        size: 210mm 297mm;
+
+        margin-left: 30mm;
+        margin-right: 20mm;
+        margin-top: 20mm;
+        margin-bottom: 20mm;
+}
+
+h2 {
+        font-size: 14pt;
+}
