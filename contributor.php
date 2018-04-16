@@ -17,7 +17,7 @@ $mpdf->WriteHTML($individual, 2);
 
 $mpdf->SetTitle("Booktype GmbH Individual Contributor License Agreement");
 $mpdf->SetAuthor("Booktype GmbH");
-$mpdf->SetCreator("mPDF 6.0");
+$mpdf->SetCreator("mPDF 6.1.2");
 $mpdf->SetSubject("Booktype Contributor Agreements");
 $mpdf->SetKeywords("Booktype, AGPL, GitHub");
 
@@ -35,7 +35,7 @@ $mpdf->WriteHTML($entity, 2);
 
 $mpdf->SetTitle("Booktype GmbH Entity Contributor License Agreement");
 $mpdf->SetAuthor("Booktype GmbH");
-$mpdf->SetCreator("mPDF 6.0");
+$mpdf->SetCreator("mPDF 6.1.2");
 $mpdf->SetSubject("Booktype Contributor Agreements");
 $mpdf->SetKeywords("Booktype, AGPL, GitHub");
 
